@@ -2,6 +2,7 @@
 Battle Royale Optimization Algorithm (BRO) Matlab implementation.
 
 Doi: [10.1007/s00521-020-05004-4](https://doi.org/10.1007/s00521-020-05004-4)
+
 URL: https://link.springer.com/article/10.1007%2Fs00521-020-05004-4
 
 ## Article Abstract:
