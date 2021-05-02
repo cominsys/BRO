@@ -61,6 +61,7 @@ for R = 1:NumRun
                 soldier.xy(:,dam) = MyCrossOverFcn(soldier.xy(:,dam),flag.xy,Dim,CrossType,Eval);
             else
                 soldier.xy(:,dam) = TempXY;
+                soldier.Fault(dam) = 0;
             end
             for i = 1:Dim
                 if soldier.xy(i,dam)<ShrinkMinMax(i,1)
